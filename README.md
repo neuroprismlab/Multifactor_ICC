@@ -44,6 +44,14 @@ var_comp_mean contains the mean variance components across all regions.
 
 Alternatively, the *run\_reliability* script could be used to perform some optional filtering and significance masking (not recommended, but used for some custom analyses).
 
+### 3. Interpretation.
+
+Under construction - TODO
+Generally recommend to use D coefficient (absolute) rather than G coefficient (relative)
+Decision study reflects 6 levels, even if that is beyond what is collected (will extrapolate)
+For decision study, note which axis is which facet
+
+
 ### References:
 
 Noble, S., Spann, M. N., Tokoglu, F., Shen, X., Constable, R. T., & Scheinost, D. (2017). Influences on the test–retest reliability of functional connectivity MRI and its relationship with behavioral utility. Cerebral Cortex, 27(11), 5415-5429.
